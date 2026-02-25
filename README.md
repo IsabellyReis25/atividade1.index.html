@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <title>Laboratório Web</title>
 
-    <style>
+  <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f2f5;
@@ -77,7 +77,6 @@
 </header>
 
 <main>
-
     <div class="card">
         <h2>Sobre o aluno</h2>
         <p>Nome: __________________</p>
@@ -85,7 +84,7 @@
         <p>Data: ____ / ____ / ______</p>
     </div>
 
-    <div class="card">
+   <div class="card">
         <h2>Conteúdos aprendidos</h2>
         <ul>
             <li>Estrutura de páginas web</li>
@@ -95,12 +94,12 @@
         </ul>
     </div>
 
-    <div class="card">
+  <div class="card">
         <h2>Imagem de exemplo</h2>
         <img src="https://via.placeholder.com/200">
     </div>
 
-    <div class="card">
+   <div class="card">
         <h2>Link de exemplo</h2>
         <p>
             <a href="https://www.google.com" target="_blank">
@@ -109,7 +108,7 @@
         </p>
     </div>
 
-    <div class="card">
+  <div class="card">
         <h2>Interação</h2>
         <button onclick="mostrarMensagem()">Clique aqui</button>
         <p id="mensagem"></p>
