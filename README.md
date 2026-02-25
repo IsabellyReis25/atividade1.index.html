@@ -79,13 +79,13 @@
 <main>
     <div class="card">
         <h2>Sobre o aluno</h2>
-        <p>Nome: __________________</p>
-        <p>Turma: __________________</p>
-        <p>Data: ____ / ____ / ______</p>
+        <p>Nome: Isabelle Vitorya e Reis </p>
+        <p>Turma: 301</p>
+        <p>Data: 25 / 02 / 26 </p>
     </div>
 
    <div class="card">
-        <h2>Conteúdos aprendidos</h2>
+        <h2> Conteúdos aprendidos no ano!</h2>
         <ul>
             <li>Estrutura de páginas web</li>
             <li>Criação de sites</li>
@@ -95,21 +95,21 @@
     </div>
 
   <div class="card">
-        <h2>Imagem de exemplo</h2>
-        <img src="https://via.placeholder.com/200">
+        <h2>Imagem aleatória!</h2>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_URvpU0_-_Uvx-02s2mfRMiiPb_aAaxbaQ&s">
     </div>
 
    <div class="card">
-        <h2>Link de exemplo</h2>
+        <h2> Vídeo ilustrativo!</h2>
         <p>
-            <a href="https://www.google.com" target="_blank">
-                Abrir o Google
+            <a href="https://www.youtube.com/shorts/XavMa9bZDHI" target="_blank">
+                Abrir o vídeo!
             </a>
         </p>
     </div>
 
   <div class="card">
-        <h2>Interação</h2>
+        <h2>Surpresa!</h2>
         <button onclick="mostrarMensagem()">Clique aqui</button>
         <p id="mensagem"></p>
     </div>
@@ -123,7 +123,7 @@
 <script>
     function mostrarMensagem() {
         document.getElementById("mensagem").innerHTML =
-        "Parabéns! Você executou um comando usando JavaScript.";
+        "Van Gogh : O girassol é uma promessa de felicidade.";
     }
 </script>
 
