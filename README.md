@@ -1,11 +1,10 @@
-# atividade1.index.html
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
     <title>Laboratório Web</title>
 
-  <style>
+   <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f2f5;
@@ -14,8 +13,8 @@
         }
 
         header {
-            background-color: #1f4e79;
-            color: white;
+            background-color: #ffce30;
+            color: black;
             padding: 15px;
             text-align: center;
         }
@@ -25,7 +24,7 @@
         }
 
         .card {
-            background-color: white;
+            background-color: #ffffc5; /* cor alterada aqui */
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 8px;
@@ -48,8 +47,8 @@
         }
 
         button {
-            background-color: #1f4e79;
-            color: white;
+            background-color: #ffce30;
+            color: black;
             border: none;
             padding: 10px;
             border-radius: 5px;
@@ -57,12 +56,12 @@
         }
 
         button:hover {
-            background-color: #163a5c;
+            background-color: #ffce30;
         }
 
-        footer {
-            background-color: #1f4e79;
-            color: white;
+     footer {
+            background-color: #ffce30;
+            color: black;
             text-align: center;
             padding: 10px;
         }
@@ -84,8 +83,8 @@
         <p>Data: 25 / 02 / 26 </p>
     </div>
 
-   <div class="card">
-        <h2> Conteúdos aprendidos no ano!</h2>
+  <div class="card">
+        <h2>Conteúdos aprendidos no ano!</h2>
         <ul>
             <li>Estrutura de páginas web</li>
             <li>Criação de sites</li>
@@ -100,7 +99,7 @@
     </div>
 
    <div class="card">
-        <h2> Vídeo ilustrativo!</h2>
+        <h2>Vídeo ilustrativo!</h2>
         <p>
             <a href="https://www.youtube.com/shorts/XavMa9bZDHI" target="_blank">
                 Abrir o vídeo!
@@ -108,7 +107,7 @@
         </p>
     </div>
 
-  <div class="card">
+<div class="card">
         <h2>Surpresa!</h2>
         <button onclick="mostrarMensagem()">Clique aqui</button>
         <p id="mensagem"></p>
