@@ -24,7 +24,7 @@
         }
 
         .card {
-            background-color: #ffffc5; /* cor alterada aqui */
+            background-color: #ffffc5; /* cor alterada */
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 8px;
@@ -72,7 +72,7 @@
 
 <header>
     <h1>Laboratório Web</h1>
-    <p>Exemplo de página com HTML e CSS</p>
+   
 </header>
 
 <main>
@@ -122,9 +122,10 @@
 <script>
     function mostrarMensagem() {
         document.getElementById("mensagem").innerHTML =
-        "Van Gogh : O girassol é uma promessa de felicidade.";
+        "Seja como o girassol: busque sempre a luz, mantenha a cabeça erguida e vire as costas para a sombra 🌻 ";
     }
 </script>
 
 </body>
 </html>
+
