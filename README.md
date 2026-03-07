@@ -103,7 +103,7 @@
         <h2> Observe esse vídeo interativo!</h2>
         <p>
             <a href="https://youtube.com/shorts/Q8eYKcD7VC0?si=JzOKDjnTkzbpgahu" target="_blank">
-                Girassol!
+                Veja!
             </a>
         </p>
     </div>
@@ -123,7 +123,7 @@
 <script>
     function mostrarMensagem() {
         document.getElementById("mensagem").innerHTML =
-        "Seja como o girassol: volte-se sempre na direção do sol, deixando as sombras atrás de você.";
+        "Seja como o girassol: volte-se sempre na direção do sol, deixando as sombras atrás de você";
     }
 </script>
 
