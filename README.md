@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #ffce30;
+    background-color: #b3e5fc;
     color: black;
     padding: 15px;
     text-align: center;
@@ -28,17 +27,13 @@ main {
     border-radius: 10px;
 }
 
-/* CARDS */
-
 .card {
-    background-color: #ffffc5;
+    background-color: #e3f2fd;
     padding: 15px;
     margin-bottom: 20px;
     border-radius: 8px;
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
 }
-
-/* IMAGENS */
 
 img {
     width: 250px;
@@ -46,8 +41,6 @@ img {
     display: block;
     margin: 10px auto;
 }
-
-/* LINKS */
 
 a {
     color: #1f4e79;
@@ -59,10 +52,8 @@ a:hover {
     color: red;
 }
 
-/* BOTÃO */
-
 button {
-    background-color: #ffce30;
+    background-color: #64b5f6;
     color: black;
     border: none;
     padding: 10px;
@@ -71,13 +62,11 @@ button {
 }
 
 button:hover {
-    background-color: #e6b800;
+    background-color: #1e88e5;
 }
 
-/* RODAPÉ */
-
 footer {
-    background-color: #ffce30;
+    background-color: #b3e5fc;
     color: black;
     text-align: center;
     padding: 10px;
@@ -99,9 +88,6 @@ footer {
 
 </div>
 
-
-
-
 <div class="card">
 <h2>Subway Surfes</h2>
 <p>
@@ -109,15 +95,9 @@ Subway Surfers é um jogo de corrida infinita em que o jogador controla um perso
 </p>
 </div>
 
-
-
 <div class="card">
-
 <img src="https://picsum.photos/400/250?1">
 </div>
-
-
-
 
 <div class="card">
 <h2> Gartic </h2>
@@ -126,15 +106,9 @@ Gartic é um jogo online de desenho e adivinhação que pode ser jogado pelo cel
 </p>
 </div>
 
-
-
 <div class="card">
-
 <img src="https://picsum.photos/400/250?2">
 </div>
-
-
-
 
 <div class="card">
 <h2>STOP</h2>
@@ -143,13 +117,9 @@ Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogad
 </p>
 </div>
 
-
-
 <div class="card">
-
 <img src="https://picsum.photos/400/250?3">
 </div>
-
 
 <div class="card">
 <h2>Veja um vídeo!</h2>
@@ -159,19 +129,16 @@ Stop, também conhecido como Adedonha, é um jogo de palavras que pode ser jogad
 
 </main>
 
-
 <footer>
 Página criada no Laboratório Web
 </footer>
 
-
 <script>
 function mostrarMensagem() {
 document.getElementById("mensagem").innerHTML =
-"Seja como o girassol: busque sempre a luz, mantenha a cabeça erguida e vire as costas para a sombra 🌻";
+"Qual o seu jogo preferido?";
 }
 </script>
 
 </body>
 </html>
-```
