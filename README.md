@@ -102,8 +102,8 @@
    <div class="card">
         <h2> Observe esse vídeo interativo!</h2>
         <p>
-            <a href="https://www.google.com" target="_blank">
-                Abrir o Google
+            <a href="https://youtube.com/shorts/Q8eYKcD7VC0?si=JzOKDjnTkzbpgahu" target="_blank">
+                Girassol!
             </a>
         </p>
     </div>
@@ -123,7 +123,7 @@
 <script>
     function mostrarMensagem() {
         document.getElementById("mensagem").innerHTML =
-        "Parabéns! Você executou um comando usando JavaScript.";
+        "Seja como o girassol: volte-se sempre na direção do sol, deixando as sombras atrás de você.";
     }
 </script>
 
