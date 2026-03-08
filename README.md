@@ -24,7 +24,7 @@
         }
 
         .card {
-            background-color:FFFACD ;
+            background-color:yellow ;
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 8px;
@@ -37,17 +37,17 @@
         }
 
         a {
-            color: #1f4e79;
+            color: #ffd700;
             text-decoration: none;
             font-weight: bold;
         }
 
         a:hover {
-            color: red;
+            color: black;
         }
 
         button {
-            background-color: #1f4e79;
+            background-color: #ffd700;
             color: white;
             border: none;
             padding: 10px;
