@@ -96,7 +96,7 @@
 
   <div class="card">
         <h2>Imagem de um lindo girassol</h2>
-        <img src="https://via.placeholder.com/200">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTwvNp4R3QlV7qX99bNwxSco4SgLfvIq7HWLgHCUJECYpOIL0QYr1ejA&s=10">
     </div>
 
    <div class="card">
