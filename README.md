@@ -24,7 +24,7 @@
         }
 
         .card {
-            background-color:yellow ;
+            background-color:white ;
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 8px;
@@ -48,7 +48,7 @@
 
         button {
             background-color: #ffd700;
-            color: white;
+            color: black;
             border: none;
             padding: 10px;
             border-radius: 5px;
