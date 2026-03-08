@@ -24,7 +24,7 @@
         }
 
         .card {
-            background-color: white;
+            background-color:FFFACD ;
             padding: 15px;
             margin-bottom: 15px;
             border-radius: 8px;
@@ -56,11 +56,11 @@
         }
 
         button:hover {
-            background-color: #163a5c;
+            background-color: #ffd700;
         }
 
         footer {
-            background-color: #1f4e79;
+            background-color: #ffd700;
             color: white;
             text-align: center;
             padding: 10px;
